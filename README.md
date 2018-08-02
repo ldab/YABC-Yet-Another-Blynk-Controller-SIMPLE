@@ -4,7 +4,7 @@
 <li>YABC can be found at:&nbsp;<a href="http://untrol.io/" rel="nofollow">untrol.io</a>&nbsp;and&nbsp;<a href="https://www.tindie.com/" rel="nofollow">Tindie</a></li>
 <li>This is the most basic Blynk App with the initial 2,000 energy points, you'll find a more complex one at: <span style="text-decoration: underline;"><strong>link</strong></span> but you'll need to buy energy from Blynk.</li>
 </ul>
-<p>The firmware has been writen using PlatformIO which is a nie, neat IDE, check it out:&nbsp;<a href="https://platformio.org/platformio-ide" rel="nofollow">Learn how to install PlatformIO IDE</a></p>
+<p>The firmware has been writen using PlatformIO which is a nice, neat IDE, check it out:&nbsp;<a href="https://platformio.org/platformio-ide" rel="nofollow">Learn how to install PlatformIO IDE</a></p>
 <p>If you're feeling brave and want to customize or improve the Firmware Over the Air (OTA), check this link:&nbsp;<a title="Over-the-Air (OTA) update" href="http://docs.platformio.org/en/latest/platforms/espressif8266.html#over-the-air-ota-update" rel="nofollow">Over-the-Air (OTA) update</a>&nbsp;basically you change your sketch and upload it by running the following line on PlatformIO terminal:</p>
 <blockquote>
 <p><em>platformio run --target upload --upload-port IP_ADDRESS_HERE</em></p>
