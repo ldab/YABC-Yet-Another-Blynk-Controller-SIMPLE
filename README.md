@@ -1,4 +1,4 @@
-# YABC---Yet-Another-Blynk-Controller
+# YABC---Yet-Another-Blynk-Controller - SIMPLE VERSION
 <h4>This is a working example of open source YABC - Yet Another Blynk Controller a ESP8266 based 3x relay controller with Blynk.</h4>
 <ul>
 <li>YABC can be found at:&nbsp;<a href="http://untrol.io/" rel="nofollow">untrol.io</a>&nbsp;and&nbsp;<a href="https://www.tindie.com/" rel="nofollow">Tindie</a></li>
